@@ -6,6 +6,6 @@
 * Chrome.
 
 ## Test execution
-To run the tests, clone the latest version of this repo then install the node modules using npm install. Afterwards execute npm run build then npm run test.
+To run the tests, clone the latest version of this repo then install the node modules using **npm install**. Afterwards execute **npm run build** then **npm run test**.
 
 To run a test by itself, use ./node_modules/.bin/wdio --spec <path to test> wdio.conf.js.
