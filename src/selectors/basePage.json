@@ -1,0 +1,4 @@
+{ 
+    "pageMessageLocator": ".flash" ,
+    "h2Selector": "div.application-main h1"
+}

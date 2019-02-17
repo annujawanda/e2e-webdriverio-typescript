@@ -1,0 +1,5 @@
+{
+  "usernameLocator": "#login_field",
+  "passwordLocator": "#password",
+  "loginButtonLocator": "input[type=submit]"
+}
